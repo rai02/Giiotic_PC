@@ -9,7 +9,7 @@ Project requirements--
    -numpy 
    -time
 
-2. person.py should be in the same folder as redmi.py
+2. person.py should be in the same folder as main.py
 
 3. for use of an external USB webcam:
 

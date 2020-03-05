@@ -22,3 +22,4 @@ Project requirements--
    -Variable <areaTH> needs to be adjusted, it will have smaller values for more heights and vice versa.
 
 
+![setup](https://github.com/rai02/Giiotic_PC/blob/master/IMG_20181112_174527_HHT.jpg)
